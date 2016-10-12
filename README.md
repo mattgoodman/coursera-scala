@@ -1,4 +1,6 @@
 # coursera-scala
-My projects in Coursera Functional Programming Principles in Scala
+Projects in Coursera Functional Programming Principles in Scala
 
-https://www.coursera.org/specializations/scala 
+https://www.coursera.org/specializations/scala
+
+-Week1
